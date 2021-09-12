@@ -48,3 +48,23 @@ nav a {
 nav a:hover {
     background-color: #7C1A00;
 }
+
+nav li {
+  margin: 10px;
+  border: 1px;
+  border-style: solid;
+  border-color: #7C1A00;
+  background-color: #FFE597;
+}
+
+#content {
+  background-image: url("trans-bg.gif");
+  border: 1px solid #CCCCCC;
+  margin-left: 180px;
+  padding: 10px;
+}
+
+footer li {
+  clear: both;
+  text-align: center;
+}
