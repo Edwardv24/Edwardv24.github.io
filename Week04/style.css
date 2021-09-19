@@ -37,10 +37,6 @@ h2, h3,h4, h5 {
   text-align: center;
 }
 
-/*h3 {
-  font-size: 2.2rem;
-}
-*/
 p, li {
   font-size: 1.6rem;
   line-height: 1.5;
@@ -90,6 +86,7 @@ nav li {
   display: inline;
   text-align: center;
   flex: 1;
+  border-style: solid;
 }
 
 nav a, nav span {
