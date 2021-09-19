@@ -86,8 +86,8 @@ nav li {
   display: inline;
   text-align: center;
   flex: 1;
-  border-style: solid;
-  border-color: black;
+  border-style: groove;
+  border-color: rgb(96,96,96);
 }
 
 nav a, nav span {
