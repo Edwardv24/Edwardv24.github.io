@@ -106,8 +106,8 @@ main {
 }
 
 article, section {
-  flex: 2.3;
-  margin-right: 4px
+  flex: 2;
+  margin-right: 2px
 }
 
 aside {
