@@ -89,6 +89,9 @@ nav li {
   border-style: groove;
   border-color: rgb(96,96,96);
 }
+nav li:hover {
+background-color: #DC143C;  
+}
 
 nav a, nav span {
   display: inline-block;
@@ -100,9 +103,9 @@ nav a, nav span {
   color: black;
 
 }
-a:hover {
+/*a:hover {
   background-color: #DC143C;
-}
+}*/
 
 
 main {
