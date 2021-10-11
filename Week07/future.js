@@ -1,13 +1,14 @@
 var job = ["Teacher", "Designer", "Journalist", "Programmer"];
 var city = ["Dallas", "Houston", "Lubbock", "McAllen"];
 var spouse = ["Michelle", "Valerie", "Melissa", "Lily"];
-var numKids = [0,3,5,1];
+var numKids = [0,3,5,1]
 
-var xx = Math.floor(Math.random() * 4 )
+var y = Math.floor(Math.random() * 4 )
 
-function fortune(job,city,spouse,numKids) {
+function fortune(job,city,spouse,numKids) 
+{
   document.write("You will be a " + job + " in " + city + ", and married to " + spouse + " with " + numKids + " kids. ")
 }
 
 
-fortune (job[xx],city[xx],spouse[xx],numKids[xx])
+fortune (job[y],city[y],spouse[y],numKids[y])
